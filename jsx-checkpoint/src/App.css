@@ -1,0 +1,17 @@
+.container .card-container {
+  border: 5px solid;
+  margin: 7rem auto;
+  height: 50%;
+  width: 50%;
+  padding: 10px;
+  background-color: rgb(228, 146, 105);
+}
+
+.container .greeting {
+    font-size: 18px;
+    margin-left: 28rem;
+   margin-top: -90px;
+    margin-bottom: 100px;
+    height: 50%;
+    width: 50%;
+}
